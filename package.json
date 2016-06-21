@@ -1,0 +1,15 @@
+{
+	"name": "newHouse_project",
+	"version" : "0.0.1",
+	"devDependencies" : {
+		"gulp": "^3.9.1",
+	    "gulp-connect": "^4.0.0",
+	    "gulp-htmlincluder": "^0.1.0",
+	    "gulp-less": "^3.1.0",
+	    "gulp-livereload": "^3.8.1",
+	    "gulp-rename": "^1.2.2",
+	    "gulp-sourcemaps": "^1.6.0",
+	    "less-plugin-autoprefix": "^1.5.1",
+	    "less-plugin-clean-css": "^1.5.1"
+	}
+}
